@@ -1,1 +1,4 @@
-# [hippy](https://hippyjs.org/#/)
+# [ionic APP](https://ionicframework.com/docs/)
+```shell
+npx @ionic/cli start
+```
